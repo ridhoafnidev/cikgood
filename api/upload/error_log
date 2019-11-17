@@ -1,0 +1,683 @@
+[26-Jun-2019 07:30:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 07:30:24 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 07:30:24 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 07:30:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 07:30:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 07:30:24 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:30:24 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:30:24 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 07:30:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 07:30:24 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 07:31:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 07:31:14 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 07:31:14 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 07:31:14 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 07:31:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 07:31:14 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:31:14 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:31:14 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 07:31:14 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 07:31:14 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 07:36:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 07:36:23 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 07:36:23 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 07:36:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 07:36:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 07:36:23 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:36:23 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:36:23 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 07:36:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 07:36:23 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 07:38:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 07:38:31 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 07:38:31 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 07:38:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 07:38:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 07:38:31 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:38:31 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:38:31 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 07:38:31 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 07:38:31 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 07:39:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 07:39:38 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 07:39:38 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 07:39:38 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 07:39:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 07:39:38 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:39:38 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:39:38 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 07:39:38 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 07:39:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 07:39:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 07:39:42 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 07:39:42 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 07:39:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 07:39:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 07:39:42 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:39:42 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:39:42 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 07:39:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 07:39:42 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 07:39:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 07:39:46 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 07:39:46 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 07:39:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 07:39:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 07:39:46 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:39:46 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:39:46 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 07:39:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 07:39:46 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 07:40:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 07:40:05 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 07:40:05 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 07:40:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 07:40:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 07:40:05 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:40:05 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:40:05 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 07:40:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 07:40:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 07:41:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 07:41:37 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 07:41:37 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 07:41:37 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 07:41:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 07:41:37 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:41:37 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:41:37 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 07:41:37 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 07:41:37 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 07:50:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 07:50:59 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 07:50:59 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 07:50:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 07:50:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 07:50:59 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:50:59 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 07:50:59 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 07:50:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 07:50:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 08:39:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 08:39:20 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 08:39:20 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 08:39:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 08:39:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 08:39:20 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 08:39:20 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 08:39:20 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 08:39:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 08:39:20 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 08:42:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 08:42:16 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 08:42:16 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 08:42:16 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 08:42:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 08:42:16 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 08:42:16 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 08:42:16 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 08:42:16 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 08:42:16 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 08:42:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 08:42:20 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 08:42:20 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 08:42:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 08:42:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 08:42:20 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 08:42:20 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 08:42:20 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 08:42:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 08:42:20 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 08:42:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 08:42:22 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 08:42:22 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 08:42:22 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 08:42:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 08:42:22 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 08:42:22 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 08:42:22 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 08:42:22 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 08:42:22 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 08:42:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 08:42:46 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 08:42:46 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 08:42:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 08:42:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 08:42:46 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 08:42:46 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 08:42:46 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 08:42:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 08:42:46 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 09:49:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 09:49:42 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 09:49:42 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 09:49:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 09:49:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 09:49:42 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 09:49:42 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 09:49:42 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 09:49:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 09:49:42 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 09:50:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 09:50:41 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 09:50:41 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 09:50:41 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 09:50:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 09:50:41 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 09:50:41 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 09:50:41 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 09:50:41 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 09:50:41 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 09:54:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 09:54:38 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 09:54:38 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 09:54:38 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 09:54:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 09:54:38 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 09:54:38 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 09:54:38 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 09:54:38 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 09:54:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 09:57:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[26-Jun-2019 09:57:01 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 09:57:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined variable: alamat_kt in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 46
+[26-Jun-2019 09:57:01 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 09:57:01 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 09:57:01 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 58
+[26-Jun-2019 09:57:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 09:57:30 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 09:57:30 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[26-Jun-2019 09:57:30 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[26-Jun-2019 09:57:30 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[26-Jun-2019 09:57:30 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 09:57:30 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[26-Jun-2019 09:57:30 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[26-Jun-2019 09:57:30 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 09:57:30 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[26-Jun-2019 09:57:30 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 09:57:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 09:57:30 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 09:57:30 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 56
+[26-Jun-2019 09:58:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: jk in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 18
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 19
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 09:58:26 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[26-Jun-2019 09:58:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 09:58:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 09:58:26 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 09:58:26 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 56
+[26-Jun-2019 10:01:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: jk in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 18
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 19
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 10:01:50 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[26-Jun-2019 10:01:50 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 10:01:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 10:01:50 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 10:01:50 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 56
+[26-Jun-2019 10:02:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: jk in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 18
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 19
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 10:02:03 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[26-Jun-2019 10:02:03 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 10:02:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 10:02:03 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 10:02:03 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 56
+[26-Jun-2019 10:03:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 10:03:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: jk in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 18
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 19
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 10:03:48 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[26-Jun-2019 10:03:48 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 10:03:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 10:03:48 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 10:03:48 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 56
+[26-Jun-2019 10:06:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: email in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 16
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: no_hp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 17
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: jk in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 18
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 19
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 10:06:00 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[26-Jun-2019 10:06:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 10:06:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 10:06:00 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 10:06:00 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 56
+[26-Jun-2019 10:07:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: email in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 16
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: no_hp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 17
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: jk in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 18
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 19
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 10:07:50 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[26-Jun-2019 10:07:50 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 10:07:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 10:07:50 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 10:07:50 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 56
+[26-Jun-2019 10:09:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 10:09:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-murid.php on line 6
+[26-Jun-2019 10:11:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 10:11:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[26-Jun-2019 10:11:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[26-Jun-2019 10:11:24 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 10:11:24 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 43
+[26-Jun-2019 10:16:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 6
+[26-Jun-2019 10:16:04 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 10:16:04 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 10:16:04 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 34
+[26-Jun-2019 10:16:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 10:16:04 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 10:16:04 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 10:16:04 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 47
+[26-Jun-2019 10:16:04 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 56
+[26-Jun-2019 12:05:53 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 12:05:53 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 12:05:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 12:05:53 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 12:05:53 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 12:05:53 UTC] PHP Warning:  file_put_contents(http://arslyn.com/cikgood/backend/web/upload/images/guru/profile/0.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 15:25:23 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas.php on line 44
+[26-Jun-2019 15:25:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas.php on line 44
+[26-Jun-2019 21:33:58 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[26-Jun-2019 21:33:58 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[26-Jun-2019 21:33:58 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[26-Jun-2019 21:33:58 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 21:33:58 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[26-Jun-2019 21:33:58 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 21:33:58 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 21:33:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 21:33:58 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 21:33:58 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 21:33:58 UTC] PHP Warning:  file_put_contents(http://arslyn.com/cikgood/backend/web/upload/images/guru/profile/0.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 22:30:31 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[26-Jun-2019 22:30:31 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[26-Jun-2019 22:30:31 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[26-Jun-2019 22:30:31 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 22:30:31 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 22:30:31 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 22:30:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 22:30:31 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 22:30:31 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 22:30:31 UTC] PHP Warning:  file_put_contents(http://arslyn.com/cikgood/backend/web/upload/images/guru/profile/0.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 22:33:11 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[26-Jun-2019 22:33:11 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[26-Jun-2019 22:33:11 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[26-Jun-2019 22:33:11 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 22:33:11 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 22:33:11 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 22:33:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 22:33:11 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 22:33:11 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 22:33:11 UTC] PHP Warning:  file_put_contents(http://arslyn.com/cikgood/backend/web/upload/images/guru/profile/0.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 22:49:11 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[26-Jun-2019 22:49:11 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[26-Jun-2019 22:49:11 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[26-Jun-2019 22:49:11 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 22:49:11 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 22:49:11 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 22:49:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 36
+[26-Jun-2019 22:49:11 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 22:49:11 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 22:49:11 UTC] PHP Warning:  file_put_contents(http://arslyn.com/cikgood/backend/web/upload/images/guru/profile/0.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 22:52:32 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[26-Jun-2019 22:52:32 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[26-Jun-2019 22:52:32 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[26-Jun-2019 22:52:32 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 22:52:32 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 22:52:32 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[26-Jun-2019 22:52:32 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 22:52:32 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 22:52:32 UTC] PHP Warning:  file_put_contents(http://arslyn.com/cikgood/backend/web/upload/images/guru/profile/56.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 22:54:09 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 22:54:09 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 22:54:09 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 22:54:09 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 45
+[26-Jun-2019 22:54:09 UTC] PHP Warning:  file_put_contents(http://arslyn.com/cikgood/backend/web/upload/images/guru/profile/56.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 49
+[26-Jun-2019 23:08:28 UTC] PHP Notice:  Undefined index: propinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[26-Jun-2019 23:08:28 UTC] PHP Notice:  Undefined index: propinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[26-Jun-2019 23:10:37 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[26-Jun-2019 23:10:37 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[26-Jun-2019 23:10:37 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[26-Jun-2019 23:10:37 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[27-Jun-2019 02:48:24 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[27-Jun-2019 02:48:24 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[27-Jun-2019 02:48:24 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[27-Jun-2019 02:48:24 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[01-Jul-2019 13:38:37 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:38:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:39:41 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:39:41 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:41:41 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:41:41 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:50:20 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:50:20 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:52:40 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:52:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:58:07 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 13:58:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 14:00:05 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 14:00:05 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 14:05:55 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 14:05:55 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 14:14:18 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 14:14:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 14:20:51 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[01-Jul-2019 14:20:51 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/upload-identitas-edit.php on line 44
+[03-Jul-2019 15:13:17 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 15:13:17 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 15:13:17 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 15:13:17 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 15:13:17 UTC] PHP Notice:  Undefined index: lat_lng in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 29
+[03-Jul-2019 15:29:42 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 15:29:42 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 15:29:42 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 15:29:42 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 15:29:42 UTC] PHP Notice:  Undefined index: lat_lng in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 29
+[03-Jul-2019 15:32:44 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 15:32:44 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 15:32:44 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 15:32:44 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 15:49:02 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 15:49:02 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 15:49:02 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 15:49:02 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 15:50:19 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 15:50:19 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 15:50:19 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 15:50:19 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 16:00:14 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 16:05:19 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 16:05:19 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 16:05:19 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 16:05:19 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 16:10:27 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 16:10:27 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 16:10:27 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 16:10:27 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 16:12:43 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 16:12:43 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 16:12:43 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 16:12:43 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 16:19:09 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 16:19:09 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 16:19:09 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 16:19:09 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 16:22:44 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 16:24:16 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 16:24:16 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 16:24:16 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 16:24:16 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 16:24:20 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 16:24:20 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 16:24:20 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 16:24:20 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 16:24:24 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 16:24:24 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 16:24:24 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 16:24:24 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[03-Jul-2019 16:26:24 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[03-Jul-2019 16:26:24 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[03-Jul-2019 16:26:24 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[03-Jul-2019 16:26:24 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[04-Jul-2019 00:37:03 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 00:37:03 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 00:37:03 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 00:37:03 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[04-Jul-2019 11:48:57 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 11:48:57 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 11:48:57 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 11:48:57 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[04-Jul-2019 11:53:07 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 11:53:07 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 11:53:07 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 11:53:07 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[04-Jul-2019 12:11:47 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 12:11:47 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 12:11:47 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 12:16:54 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 12:16:54 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 12:16:54 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 12:20:58 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 12:20:58 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 12:20:58 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 12:22:13 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 12:22:13 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 12:22:13 UTC] PHP Notice:  Undefined index: photo_profiljjjje in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: no_hp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 17
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: jk in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 18
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 19
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[04-Jul-2019 12:29:33 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: no_hp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 17
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: jk in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 18
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 19
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[04-Jul-2019 12:29:34 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: no_hp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 17
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: jk in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 18
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 19
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 20
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 21
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 22
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 23
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 24
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 25
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 26
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 27
+[04-Jul-2019 12:29:37 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 28
+[04-Jul-2019 14:34:04 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 13
+[04-Jul-2019 14:34:04 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 14:34:04 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 14:34:04 UTC] PHP Notice:  Undefined variable: no_hp in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 51
+[04-Jul-2019 14:45:26 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 14:45:26 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 14:47:40 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 14:47:40 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 14:53:51 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 14:53:51 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 14:56:39 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 14
+[04-Jul-2019 14:56:39 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/upload-update-profile-guru.php on line 15
+[04-Jul-2019 15:04:06 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 15:04:06 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:08:39 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:09:53 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:11:55 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:12:36 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:14:13 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 15:14:13 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:23:21 UTC] PHP Warning:  include(dbconfig.php): failed to open stream: No such file or directory in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 3
+[04-Jul-2019 15:23:21 UTC] PHP Warning:  include(): Failed opening 'dbconfig.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 3
+[04-Jul-2019 15:23:21 UTC] PHP Notice:  Undefined variable: servername in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 6
+[04-Jul-2019 15:23:21 UTC] PHP Notice:  Undefined variable: username in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 6
+[04-Jul-2019 15:23:21 UTC] PHP Notice:  Undefined variable: password in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 6
+[04-Jul-2019 15:23:21 UTC] PHP Notice:  Undefined variable: dbname in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 6
+[04-Jul-2019 15:23:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 6
+[04-Jul-2019 15:23:21 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 11
+[04-Jul-2019 15:23:21 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 12
+[04-Jul-2019 15:23:21 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 18
+[04-Jul-2019 15:23:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 20
+[04-Jul-2019 15:23:21 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 34
+[04-Jul-2019 15:23:21 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 41
+[04-Jul-2019 15:25:05 UTC] PHP Warning:  include(dbconfig.php): failed to open stream: No such file or directory in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 3
+[04-Jul-2019 15:25:05 UTC] PHP Warning:  include(): Failed opening 'dbconfig.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 3
+[04-Jul-2019 15:25:05 UTC] PHP Notice:  Undefined variable: servername in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 6
+[04-Jul-2019 15:25:05 UTC] PHP Notice:  Undefined variable: username in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 6
+[04-Jul-2019 15:25:05 UTC] PHP Notice:  Undefined variable: password in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 6
+[04-Jul-2019 15:25:05 UTC] PHP Notice:  Undefined variable: dbname in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 6
+[04-Jul-2019 15:25:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 6
+[04-Jul-2019 15:25:05 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 12
+[04-Jul-2019 15:25:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 18
+[04-Jul-2019 15:25:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 20
+[04-Jul-2019 15:25:05 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 34
+[04-Jul-2019 15:25:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 41
+[04-Jul-2019 15:29:53 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 12
+[04-Jul-2019 15:33:55 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 12
+[04-Jul-2019 15:34:10 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 11
+[04-Jul-2019 15:34:10 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 12
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 47
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: jk in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 47
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 47
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 47
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 47
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 48
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 48
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 48
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 48
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 49
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: biodata in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 49
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: id in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 49
+[04-Jul-2019 15:39:08 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 54
+[04-Jul-2019 15:39:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 54
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 47
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: jk in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 47
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 47
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 47
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 47
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 48
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 48
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 48
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 48
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 49
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: biodata in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 49
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: id in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 49
+[04-Jul-2019 15:39:52 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 54
+[04-Jul-2019 15:39:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 54
+[04-Jul-2019 15:41:26 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 13
+[04-Jul-2019 15:41:26 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 15:41:26 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:41:26 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 15:42:51 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 13
+[04-Jul-2019 15:42:51 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 15:42:51 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:42:51 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 15:51:17 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 13
+[04-Jul-2019 15:51:17 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 15:51:17 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:51:17 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 15:51:31 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 13
+[04-Jul-2019 15:51:31 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 15:51:31 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:51:31 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 15:53:40 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:56:09 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 15:56:09 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:56:25 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:56:54 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 15:57:52 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 15:57:52 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 16:00:31 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 16:00:31 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 16:04:06 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 13
+[04-Jul-2019 16:04:06 UTC] PHP Notice:  Undefined index: nama_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 14
+[04-Jul-2019 16:04:06 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 16:04:06 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: id_guru in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 13
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: photo_profile in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 15
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: jk in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 18
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: tgl_lahir in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 19
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: provinsi_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 20
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: kota_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 21
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: kecamatan_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 22
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: alamat_ktp in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 23
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: provinsi_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 24
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: kota_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 25
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: kecamatan_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 26
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 16:04:56 UTC] PHP Notice:  Undefined index: biodata in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 28
+[04-Jul-2019 16:09:23 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 16:10:26 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 16:10:26 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 54
+[04-Jul-2019 16:10:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 54
+[04-Jul-2019 16:11:14 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 16:11:14 UTC] PHP Notice:  Undefined variable: InsertSQL in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 54
+[04-Jul-2019 16:11:14 UTC] PHP Warning:  mysqli_query(): Empty query in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 54
+[04-Jul-2019 16:11:47 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 19:02:02 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 19:40:15 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 19:43:18 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 19:47:54 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27
+[04-Jul-2019 19:55:06 UTC] PHP Notice:  Undefined index: alamat_domisili in /home/n6171848/public_html/cikgood/api/upload/edit-profile-guru.php on line 27

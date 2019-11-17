@@ -1,0 +1,21 @@
+[
+    {
+        "custom_field1": "152",
+        "custom_field2": "saldo_midtrans",
+        "status_code": "201",
+        "status_message": "midtrans payment notification",
+        "transaction_id": "06b4eb2d-7e3b-44ca-ad1d-1e6295f0e842",
+        "masked_card": "-",
+        "order_id": "1572763868951",
+        "payment_type": "bank_transfer",
+        "transaction_time": "2019-11-03 13:54:33",
+        "transaction_status": "pending",
+        "fraud_status": "accept",
+        "approval_code": "-",
+        "signature_key": "c8953a8f6f0530c00770c8f14b0591ec7e83ae0a8c2001f4e6cb5f42e16a59d138670b4e518cdcf75e6376a7150fd504c0717f20c4ceb7db9e5bd00d45477056",
+        "bank": "-",
+        "gross_amount": "100000.00",
+        "channel_response_message": "-",
+        "card_type": "-"
+    }
+]

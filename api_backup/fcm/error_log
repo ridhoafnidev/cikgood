@@ -1,0 +1,74 @@
+[26-May-2019 22:45:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/fcm/DbConnect.php on line 22
+[26-May-2019 22:45:33 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 37
+[26-May-2019 22:45:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php:38
+Stack trace:
+#0 /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php(24): DbOperation->isEmailexist('sayap@gmail.com')
+#1 /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php(18): DbOperation->registerDevice('sayap', '', '085236529658', 'sayap@gmail.com', '7c4a8d09ca3762a...')
+#2 {main}
+  thrown in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 38
+[26-May-2019 22:47:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/fcm/DbConnect.php on line 22
+[26-May-2019 22:47:10 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 37
+[26-May-2019 22:47:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php:38
+Stack trace:
+#0 /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php(24): DbOperation->isEmailexist('sayap@gmail.com')
+#1 /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php(18): DbOperation->registerDevice('sayap', 'cDufbbJF_kA:APA...', '085236529658', 'sayap@gmail.com', '7c4a8d09ca3762a...')
+#2 {main}
+  thrown in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 38
+[26-May-2019 22:48:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/fcm/DbConnect.php on line 22
+[26-May-2019 22:48:03 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 37
+[26-May-2019 22:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php:38
+Stack trace:
+#0 /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php(24): DbOperation->isEmailexist('sayap@gmail.com')
+#1 /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php(18): DbOperation->registerDevice('sayap', 'cDufbbJF_kA:APA...', '085236529658', 'sayap@gmail.com', '7c4a8d09ca3762a...')
+#2 {main}
+  thrown in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 38
+[26-May-2019 22:48:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/fcm/DbConnect.php on line 22
+[26-May-2019 22:48:46 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 37
+[26-May-2019 22:48:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php:38
+Stack trace:
+#0 /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php(24): DbOperation->isEmailexist('salahsatu08@gma...')
+#1 /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php(18): DbOperation->registerDevice('salahsatu08', 'test2', '08222', 'salahsatu08@gma...', '7c4a8d09ca3762a...')
+#2 {main}
+  thrown in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 38
+[26-May-2019 22:51:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/fcm/DbConnect.php on line 22
+[26-May-2019 22:51:12 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 37
+[26-May-2019 22:51:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php:38
+Stack trace:
+#0 /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php(24): DbOperation->isEmailexist('salahsatu08@gma...')
+#1 /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php(18): DbOperation->registerDevice('salahsatu08', 'test2', '08222', 'salahsatu08@gma...', '7c4a8d09ca3762a...')
+#2 {main}
+  thrown in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 38
+[26-May-2019 22:56:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/fcm/DbConnect.php on line 22
+[26-May-2019 22:56:31 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 37
+[26-May-2019 22:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php:38
+Stack trace:
+#0 /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php(24): DbOperation->isEmailexist('siap@gmail.com')
+#1 /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php(18): DbOperation->registerDevice('siap', '', '085236521425', 'siap@gmail.com', '7c4a8d09ca3762a...')
+#2 {main}
+  thrown in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 38
+[27-May-2019 04:36:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/fcm/DbConnect.php on line 22
+[27-May-2019 04:36:42 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 37
+[27-May-2019 04:36:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php:38
+Stack trace:
+#0 /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php(24): DbOperation->isEmailexist('hhh@gmail.com')
+#1 /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php(18): DbOperation->registerDevice('hhh', 'cDufbbJF_kA:APA...', '085263524125', 'hhh@gmail.com', '7c4a8d09ca3762a...')
+#2 {main}
+  thrown in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 38
+[27-May-2019 04:37:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/n6171848/public_html/cikgood/api/fcm/DbConnect.php on line 22
+[27-May-2019 04:37:35 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 37
+[27-May-2019 04:37:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php:38
+Stack trace:
+#0 /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php(24): DbOperation->isEmailexist('salahsatu08@gma...')
+#1 /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php(18): DbOperation->registerDevice('salahsatu08', 'test2', '08222', 'salahsatu08@gma...', '7c4a8d09ca3762a...')
+#2 {main}
+  thrown in /home/n6171848/public_html/cikgood/api/fcm/DbOperation.php on line 38
+[27-May-2019 04:41:05 UTC] PHP Notice:  Undefined index: nama in /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php on line 8
+[27-May-2019 04:41:05 UTC] PHP Notice:  Undefined index: token in /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php on line 9
+[27-May-2019 04:41:05 UTC] PHP Notice:  Undefined index: no_hp in /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php on line 10
+[27-May-2019 04:41:05 UTC] PHP Notice:  Undefined index: email in /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php on line 11
+[27-May-2019 04:41:05 UTC] PHP Notice:  Undefined index: password in /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php on line 12
+[27-May-2019 10:17:46 UTC] PHP Notice:  Undefined index: nama in /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php on line 8
+[27-May-2019 10:17:46 UTC] PHP Notice:  Undefined index: token in /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php on line 9
+[27-May-2019 10:17:46 UTC] PHP Notice:  Undefined index: no_hp in /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php on line 10
+[27-May-2019 10:17:46 UTC] PHP Notice:  Undefined index: email in /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php on line 11
+[27-May-2019 10:17:46 UTC] PHP Notice:  Undefined index: password in /home/n6171848/public_html/cikgood/api/fcm/RegisterDevice.php on line 12
